@@ -1,0 +1,4 @@
+3
+attacking,Hammer,0,10,20,F,20
+attacking2,Torch,0,10,20,D,20
+attacking3,Bell,0,10,20,S,20

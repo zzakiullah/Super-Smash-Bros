@@ -1,0 +1,4 @@
+3
+attacking,Side Hammer,0,10,60,F,40
+attacking2,Down Hammer,0,10,60,D,40
+attacking3,Hammer Spin,0,10,20,S,20

@@ -1,0 +1,4 @@
+3
+attacking,Snake,0,10,40,F,20
+attacking2,Pika Lightning,0,10,40,D,20
+shooting,Pika Fire,1,10,40,S,20,30,20,20,0,20,5,3000

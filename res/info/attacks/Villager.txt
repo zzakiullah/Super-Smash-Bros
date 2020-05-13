@@ -1,0 +1,3 @@
+2
+attacking,Punch,0,10,20,F,20
+shooting,Lloid Rocket,1,10,20,D,20,80,28,10,0,20,5,-1

@@ -1,0 +1,4 @@
+3
+attacking,Side Punch,0,10,60,F,20
+attacking2,Down Kick,0,12,60,D,20
+attacking3,Tornado,0,10,60,S,20

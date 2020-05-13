@@ -1,0 +1,17 @@
+16
+Mario,Super Mario,6,150,60,40,40,40
+Mr. Game & Watch,Game & Watch,6,200,60,40,40,40
+Link,Legend of Zelda,6,100,60,40,40,40
+Marth,Fire Emblem,6,200,60,40,40,40
+Kirby,Kirby,6,200,40,40,40,40
+King Dedede,Kirby,6,200,40,40,40,40
+Meta Knight,Kirby,6,200,40,40,40,40
+Fox,Star Fox,6,300,40,40,40,40
+Falco,Star Fox,6,200,40,40,40,40
+Pikachu,Pokemon,6,200,40,40,40,40
+Jigglypuff,Pokemon,6,200,40,40,40,40
+Ness,Earthbound,6,150,80,40,40,40
+Lucas,Earthbound,5,200,80,40,40,40
+Captain Falcon,F-Zero,6,200,40,40,40,40
+Villager,Animal Crossing,6,100,40,40,40,40
+Mega Man,Mega Man,6,100,40,40,40,40

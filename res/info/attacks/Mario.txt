@@ -1,0 +1,5 @@
+4
+attacking,Side Punch,0,10,40,F,20
+attacking2,Jump Kick,0,12,40,D,20
+attacking3,Sweep,0,13,40,S,20
+shooting,Fireball,1,10,40,A,20,45,45,10,0,20,5,-1

@@ -1,0 +1,5 @@
+4
+attacking,Side Punch,0,10,60,F,40
+attacking2,Kick,0,12,60,D,40
+attacking3,Upward Punch,0,10,60,S,40
+shooting,Falcon Punch,1,10,60,A,20,45,45,10,0,20,5,-1

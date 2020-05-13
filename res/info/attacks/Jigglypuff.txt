@@ -1,0 +1,4 @@
+3
+attacking,Upward Kick,0,10,60,F,20
+attacking,Side Kick,0,10,60,D,20
+shooting,Sing,1,10,20,S,20,45,45,60,0,20,5,5000

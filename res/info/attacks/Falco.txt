@@ -1,0 +1,5 @@
+4
+attacking,Side Punch,0,10,60,F,40
+shooting,Blaster,1,10,40,D,20,45,45,10,0,20,5,-1
+shooting2,Blaster,1,12,40,D,20,45,45,10,0,20,5,-1
+shooting3,Blaster,1,11,40,D,20,45,45,10,0,20,5,-1

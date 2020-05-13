@@ -1,0 +1,5 @@
+4
+attacking,Upward Punch,0,12,40,F,20
+shooting,Mega Buster,1,12,40,D,20,45,45,10,0,20,5,-1
+shooting2,Mega Buster,1,11,40,D,20,45,45,10,0,20,5,-1
+shooting3,Mega Buster,1,10,40,D,20,45,45,10,0,20,5,-1

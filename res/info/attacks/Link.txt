@@ -1,0 +1,5 @@
+4
+attacking,Side Slash,0,10,60,F,20
+attacking2,Spin Slash,0,12,60,D,20
+shooting,Hook Shot,1,10,60,S,20,60,40,20,10,0,5,-1
+shooting2,Bow and Arrow,1,10,60,A,20,60,40,20,10,0,5,-1
